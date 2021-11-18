@@ -4,7 +4,7 @@ function Home() {
   return (
     <>
       <main>
-        <h1>Welcome to Groupommania</h1>
+        <h1>Welcome to Groupomania</h1>
         <div className="container"></div>
       </main>
     </>
