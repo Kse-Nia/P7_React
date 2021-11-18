@@ -6,9 +6,10 @@ import Home from "./pages/Home";
 function App() {
   return (
     <div className="myApp">
-      <h1>Welcome to React Router!</h1>
       <Routes>
         <Route path="/" element={<Home />} />
+        {/*         <Route path="/register" element={<Login />} />
+        <Route path="/signup" element={<Signup />} /> */}
       </Routes>
     </div>
   );
